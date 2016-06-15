@@ -1,0 +1,15 @@
+{
+  "name": "wwdc-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light syntax theme for Atom that revolves around Apple's WWDC 2016 color scheme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/AptikDev/WWDC-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
