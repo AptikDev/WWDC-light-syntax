@@ -1,10 +1,10 @@
 #                                          WWDC-light-syntax theme
 
-![Banner](https://github.com/AptikDev/WWDC-light-syntax/blob/master/og.png)
+![Banner](https://cdn.rawgit.com/AptikDev/WWDC-light-syntax/master/og.png)
 
 A light syntax theme for Atom that revolves around Apple's WWDC 2016 color scheme.
 
-![A screenshot of your theme](https://github.com/AptikDev/WWDC-light-syntax/blob/master/Preview.png)
+![A screenshot of your theme](https://cdn.rawgit.com/AptikDev/WWDC-light-syntax/master/Preview.png)
 
 
 
