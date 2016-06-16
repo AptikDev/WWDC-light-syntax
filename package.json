@@ -1,7 +1,7 @@
 {
   "name": "wwdc-light-syntax",
   "theme": "syntax",
-  "version": "6.0.0",
+  "version": "0.0.0",
   "description": "A light syntax theme for Atom that revolves around Apple's WWDC 2016 color scheme.",
   "keywords": [
     "syntax",
